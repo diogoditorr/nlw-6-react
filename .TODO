@@ -2,9 +2,9 @@ Challenges:
     ☐ Responsividade
     ☐ Dark Theme
     ☐ Versão PWA (create-react-app service.worker pwa)
-    ☐ GitHub Bonito desse repositório
     ☐ (Optional) Outros bancos de dados (Firestore Database, Supabase, etc...)
     ☐ (Optional) Styled Components
+    ✔ GitHub desse repositório @done(22-03-06 10:45)
     ✔ Eslint, Prettier @done(22-03-06 08:41)
 
 Miscellaneous:
