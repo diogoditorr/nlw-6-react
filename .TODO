@@ -1,0 +1,14 @@
+Challenges:
+    ☐ Responsividade
+    ☐ Dark Theme
+    ☐ Versão PWA (create-react-app service.worker pwa)
+    ☐ GitHub Bonito desse repositório
+    ☐ (Optional) Outros bancos de dados (Firestore Database, Supabase, etc...)
+    ☐ (Optional) Styled Components
+    ✔ Eslint, Prettier @done(22-03-06 08:41)
+
+Miscellaneous:
+    ☐ "faça login" na página Room quando não logado deve executar o login
+    ☐ Implement delete question with "react-modal" package
+    ☐ Adicionar somente novas informações quando for adicionado mais mensagens Firebase -> child_added | child_moved | child_removed
+    ☐ (Optional) Use react-hot-toast
