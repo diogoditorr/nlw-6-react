@@ -9,6 +9,9 @@
 
 <br>
 
+## 💻 Link (Deployed on Firebase)
+https://letmeask-8e8b5.web.app/
+
 ## 🧪 Technologies
 
 This project was developed with the following technologies:
