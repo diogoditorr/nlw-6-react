@@ -34,16 +34,20 @@ $ yarn
 # Start the project
 $ yarn start
 ```
-The app will be available in the browser in your address at http://localhost:3000.
+The app will be available in the browser at your address at http://localhost:3000.
 
 It is necessary to create an account on [Firebase](https://firebase.google.com/) and a project to make available a Realtime Database.
 
 ## 💻 Project
 
-Letmeask is perfect for content creators create rooms of Q&A with their public in a very organized and democratic way.
+*Letmeask* is perfect for content creators to create rooms of Q&A with their public in a very organized and democratic way.
 
-This is a project developed all along **[Next Level Week Together](https://nextlevelweek.com/)**, presented from 20th to the 27th of June 2021.
+This is a project developed all along with **[Next Level Week Together](https://nextlevelweek.com/)**, presented from the 20th to the 27th of June 2021.
 
+<div align="center">
+  <img src=".github/example-1.png" />
+  <img src=".github/example-2.png" />
+</div>
 
 ## 🔖 Layout
 
