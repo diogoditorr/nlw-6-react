@@ -9,6 +9,9 @@
 
 <br>
 
+## 💻 Link Preview
+https://letmeask-8e8b5.web.app/
+
 ## 🧪 Technologies
 
 This project was developed with the following technologies:
@@ -42,7 +45,11 @@ It is necessary to create an account on [Firebase](https://firebase.google.com/)
 
 *Letmeask* is perfect for content creators to create rooms of Q&A with their public in a very organized and democratic way.
 
+<<<<<<< HEAD
 This is a project developed all along with **[Next Level Week Together](https://nextlevelweek.com/)**, presented from the 20th to the 27th of June 2021.
+=======
+This is a project developed all along **Next Level Week Together** created by [Rocketseat](https://www.rocketseat.com.br/), presented from 20th to the 27th of June 2021.
+>>>>>>> edb7b49f7eadb66af5386f9a5190b412242ac57e
 
 <div align="center">
   <img src=".github/example-1.png" />
