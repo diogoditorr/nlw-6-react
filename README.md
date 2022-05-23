@@ -9,7 +9,7 @@
 
 <br>
 
-## 💻 Link (Deployed on Firebase)
+## 💻 Link Preview
 https://letmeask-8e8b5.web.app/
 
 ## 🧪 Technologies
