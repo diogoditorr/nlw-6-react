@@ -44,10 +44,9 @@ export function useRoom(roomId: string) {
         const roomRef = database.ref(`rooms/${roomId}`);
 
         roomRef.on("value", (room) => {
-            /* TODO adicionar somente novas informações
-             quando for adicionado mais mensagens 
-             Firebase -> child_added | child_moved | child_removed
-             */
+            // TODO: adicionar somente novas informações
+            // quando for adicionado mais mensagens 
+            // Firebase -> child_added | child_moved | child_removed
 
             const databaseRoom = room.val();
             const firebaseQuestions: FirebaseQuestions =
