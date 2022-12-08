@@ -37,7 +37,7 @@ $ yarn
 
 3. Create a [Firebase](https://firebase.google.com) project and set up a Realtime Database.
 
-4. Add your Firabase project's configuration to the project by creating a file called `.env` in the root of the project and setting the following environment variables: (There is a .env.example as well)
+4. Add your Firabase project's configuration to the project by creating a file called `.env` in the root of the project and setting the following environment variables: (There is a `.env.example` as well)
 
 ```
 REACT_APP_API_KEY=
