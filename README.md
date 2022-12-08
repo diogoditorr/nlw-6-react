@@ -22,30 +22,47 @@ This project was developed with the following technologies:
 
 ## 🚀 How to run
 
-Clone the repository and access its folder.
+1. Clone the repository and access its folder.
 
 ```bash
 $ git clone https://github.com/diogoditorr/nlw-06-react
 $ cd nlw-6-react
 ```
 
-To start it, follow the steps below:
-```bash
-# Install dependencies
-$ yarn
+2. Install dependencies:
 
-# Start the project
+```bash
+$ yarn
+```
+
+3. Create a [Firebase](https://firebase.google.com) project and set up a Realtime Database.
+
+4. Add your Firabase project's configuration to the project by creating a file called `.env` in the root of the project and setting the following environment variables: (There is a .env.example as well)
+
+```
+REACT_APP_API_KEY=
+REACT_APP_AUTH_DOMAIN=
+REACT_APP_DATABASE_URL=
+REACT_APP_PROJECT_ID=
+REACT_APP_STORAGE_BUCKET=
+REACT_APP_MESSAGING_SENDER_ID=
+REACT_APP_APP_ID=
+```
+
+5. Start the project
+
+```bash
 $ yarn start
 ```
-The app will be available in the browser at your address at http://localhost:3000.
 
-It is necessary to create an account on [Firebase](https://firebase.google.com/) and a project to make available a Realtime Database.
+The app will be available in the browser at http://localhost:3000.
+
 
 ## 💻 Project
 
-*Letmeask* is perfect for content creators to create rooms of Q&A with their public in a very organized and democratic way.
+*Letmeask* is a platform that allows content creators to create Q&A rroms with their audience in a organized and democratic way.
 
-This is a project developed all along with **[Next Level Week Together](https://nextlevelweek.com/)**, presented from the 20th to the 27th of June 2021.
+This project was developed as part of **[Next Level Week Together](https://nextlevelweek.com/)**, which took place from June 20-27, 2021.
 
 <div align="center">
   <img src=".github/example-1.png" />
@@ -54,12 +71,12 @@ This is a project developed all along with **[Next Level Week Together](https://
 
 ## 🔖 Layout
 
-You can visualize the project's layout through the link below:
+THe project's layout is available on Figma:
 
 - [Layout Web](https://www.figma.com/community/file/1009824839797878169/Letmeask) 
 
-You will need an account on [Figma](http://figma.com/).
+You will need a [Figma](http://figma.com/) account to view the layout.
 
 ## 📝 License
 
-This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
